@@ -31,6 +31,7 @@
 		07F9D27726676AFC00A4C8AA /* Classifier.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Classifier.cpp; path = ../../Project2_NN_Search/Project2_NN_Search/Classifier.cpp; sourceTree = "<group>"; };
 		07F9D27826676AFC00A4C8AA /* Validator.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Validator.cpp; path = ../../Project2_NN_Search/Project2_NN_Search/Validator.cpp; sourceTree = "<group>"; };
 		07F9D27926676AFC00A4C8AA /* Classifier.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = Classifier.hpp; path = ../../Project2_NN_Search/Project2_NN_Search/Classifier.hpp; sourceTree = "<group>"; };
+		07F9D2812667817D00A4C8AA /* cs_170_small80.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = cs_170_small80.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +48,7 @@
 		07F9D25F26676ADC00A4C8AA = {
 			isa = PBXGroup;
 			children = (
+				07F9D2812667817D00A4C8AA /* cs_170_small80.txt */,
 				07F9D26A26676ADC00A4C8AA /* Part2_NN_Classifier */,
 				07F9D26926676ADC00A4C8AA /* Products */,
 			);
@@ -63,9 +65,9 @@
 		07F9D26A26676ADC00A4C8AA /* Part2_NN_Classifier */ = {
 			isa = PBXGroup;
 			children = (
+				07F9D27626676AFC00A4C8AA /* main.cpp */,
 				07F9D27726676AFC00A4C8AA /* Classifier.cpp */,
 				07F9D27926676AFC00A4C8AA /* Classifier.hpp */,
-				07F9D27626676AFC00A4C8AA /* main.cpp */,
 				07F9D27826676AFC00A4C8AA /* Validator.cpp */,
 				07F9D27526676AFC00A4C8AA /* Validator.hpp */,
 			);
